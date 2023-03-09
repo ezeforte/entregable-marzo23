@@ -39,9 +39,7 @@ function App() {
     setMostrarInfo(true);
 
     // Limpiar los campos del formulario
-    setNombre('');
-    setTelefono('');
-    setError('');
+    
     
   }
 
